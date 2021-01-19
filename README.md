@@ -1,4 +1,4 @@
-# video-browser
+# vue-tube
 
 ## Project setup
 ```
